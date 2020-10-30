@@ -5,7 +5,7 @@ class Secret < Formula
 
   stable do
     url "https://github.com/angt/secret.git",
-      tag: "v0.10"
+      tag: "v0.11"
   end
 
   def install
