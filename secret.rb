@@ -1,7 +1,8 @@
 class Secret < Formula
-  desc "A tiny secret store to keep your little secrets"
+  desc "Tiny secret store to keep your little secrets"
   homepage "https://github.com/angt/secret"
   license "BSD-2-Clause"
+  head "https://github.com/angt/secret.git"
 
   stable do
     url "https://github.com/angt/secret.git",
